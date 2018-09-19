@@ -30,6 +30,11 @@ theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 
+navigation_header:
+  Home: /
+  About: /about/
+  Categories: /categories/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
