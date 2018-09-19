@@ -33,7 +33,7 @@ plugins:
 navigation_header:
   Home: /
   About: /about/
-  Class Reviews: /categories/#class-review
+  Courses: /categories/#course-review
   Recruiting: /categories/#recruiting
   Abroad: /categories/#abroad
 
