@@ -1,8 +1,8 @@
 ---
 layout: blog
 feature_text: |
-  ## Dart.js
-  Your source for everything CS at Dartmouth.
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ## dart.cs
+  your source for everything CS at Dartmouth.
+feature_image: "http://dartmouth.imodules.com/s/1353/images/ImageLibrary/bdd03a88-2f77-4840-aedc-6485048e492f.jpg"
 title: Posts
 ---

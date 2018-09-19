@@ -1,2 +1,3 @@
-# hack-a-thing-1-gatsby
-hack-a-thing-1-gatsby created by GitHub Classroom
+# Hack-a-Thing: Dart.js using Jekyll
+
+Jekyll is a static site generator written in Ruby. It allows you to simply package up your content files and functionality and share it across projects.

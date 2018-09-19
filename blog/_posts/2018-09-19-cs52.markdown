@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "cs52: best class ever."
+date:   2018-09-19 09:32:24 -0400
+categories: class-review
+---
+
+much webdev. very React.
