@@ -33,9 +33,8 @@ plugins:
 navigation_header:
   Home: /
   About: /about/
-  Class Reviews: /categories/#class-review/
-  Recruiting: /categories/#recruiting/
-  Categories: /categories/
+  Class Reviews: /categories/#class-review
+  Recruiting: /categories/#recruiting
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
