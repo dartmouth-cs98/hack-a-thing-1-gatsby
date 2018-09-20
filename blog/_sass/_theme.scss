@@ -131,6 +131,11 @@ body {
     @include justify-content(center);
     @include flex-direction(row);
   }
+
+  h1 {
+    color: #384743;
+    // font-family:'Merriweather, serif';
+  }
 }
 
 .header,
@@ -173,6 +178,10 @@ body {
 
 .section {
   margin: 0;
+
+  h2 {
+    color: #384743;
+  }
 }
 
 
