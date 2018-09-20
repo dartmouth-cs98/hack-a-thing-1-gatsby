@@ -1,5 +1,7 @@
 # Hack-a-Thing: Dart.cs using Jekyll
 
+## See the live site at: https://site-epxlxhrxbw.now.sh/
+
 - For our hackathon we decided to explore static site generation and new deployment strategies. After looking at both Gatsby.js and Jekyll, we decided to go with Jekyll. We then deployed using Now.sh.
 
 - Jekyll is a static site generator written in Ruby. It allows you to simply package up your content files and functionality and share it across projects. We learned a little bit about static site generators in CS52 (namely, Hugo), but we wanted to try out Jekyll as a different and potentially better option for any future simple site endeavors.
