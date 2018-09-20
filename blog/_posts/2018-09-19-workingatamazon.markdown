@@ -7,7 +7,7 @@ categories: recruiting
 
 We interviewed Chris Bertasi '19 who spent his summer in Seattle, WA as a software engineering intern at Amazon.
 
-![amazon](https://i.imgur.com/Gu6UuyD.jpg)
+![amazon](https://i.imgur.com/cLIOHkf.jpg)
 
 His favorite part was the free banana stand:
 
